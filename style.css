@@ -7,7 +7,7 @@ h1{
 }
 
 .orange-color{
-    color: orange;
+    color: orangered;
 }
 
 section{
@@ -16,17 +16,25 @@ section{
 
 .half-width{
     width: 50%;
-    padding-left:2%;
+    padding-left:5%;
+    text-align: justify;
 }
 
 .half-width img{
-    width: 50%;   
+    width: 50%;
+    padding: 50px 130px;
 }
 
 
 .link-button{
     text-decoration: none;
-    background-color: orangered;
+   background-image: linear-gradient(orange, orangered);
     padding: 10px 30px;
-    color: papayawhip;
+    color: white;
+    border-radius: 5px;
+    font-weight: 600;
 }
+/* 
+/* .top-baner{
+    /*    */
+
